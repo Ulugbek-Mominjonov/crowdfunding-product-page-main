@@ -66,7 +66,7 @@ body {
 /* SITE-HEADER */
 .hearder {
   width: 100%;
-	background-image: url("/images/image-hero-desktop.jpg");
+	background-image: url("../images/image-hero-desktop.jpg");
 	/* background-size: cover; */
 	height: 400px;
 }
